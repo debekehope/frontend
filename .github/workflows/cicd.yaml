@@ -19,4 +19,4 @@ jobs:
 
     - name: Docker build 
       run: |
-        hostnamctl
+        hostnamectl
